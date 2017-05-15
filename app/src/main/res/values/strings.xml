@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="gas">Gas</string>
+    <string name="miles">Miles</string>
+    <string name="calc">Calculate</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_display_message">TEST</string>
+    <string name="output">0</string>
+
+</resources>
